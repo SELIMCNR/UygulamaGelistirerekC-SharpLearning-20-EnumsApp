@@ -1,2 +1,2 @@
-# UygulamaGelistirerekC-SharpLearning-20-EnumsApp
+# UygulamaGelistirerekC-SharpLearning-21-EnumsApp
 Uygulama geliştirerek C# öğrenme projesi
