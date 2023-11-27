@@ -1,0 +1,16 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project28\enumsapp\enumsapp\bin\Debug\net6.0-windows\enumsapp.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project28\enumsapp\enumsapp\bin\Debug\net6.0-windows\enumsapp.deps.json
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project28\enumsapp\enumsapp\bin\Debug\net6.0-windows\enumsapp.runtimeconfig.json
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project28\enumsapp\enumsapp\bin\Debug\net6.0-windows\enumsapp.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project28\enumsapp\enumsapp\bin\Debug\net6.0-windows\enumsapp.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project28\enumsapp\enumsapp\obj\Debug\net6.0-windows\enumsapp.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project28\enumsapp\enumsapp\obj\Debug\net6.0-windows\enumsapp.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project28\enumsapp\enumsapp\obj\Debug\net6.0-windows\enumsapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project28\enumsapp\enumsapp\obj\Debug\net6.0-windows\enumsapp.AssemblyInfoInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project28\enumsapp\enumsapp\obj\Debug\net6.0-windows\enumsapp.AssemblyInfo.cs
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project28\enumsapp\enumsapp\obj\Debug\net6.0-windows\enumsapp.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project28\enumsapp\enumsapp\obj\Debug\net6.0-windows\enumsapp.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project28\enumsapp\enumsapp\obj\Debug\net6.0-windows\refint\enumsapp.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project28\enumsapp\enumsapp\obj\Debug\net6.0-windows\enumsapp.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project28\enumsapp\enumsapp\obj\Debug\net6.0-windows\enumsapp.genruntimeconfig.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project28\enumsapp\enumsapp\obj\Debug\net6.0-windows\ref\enumsapp.dll
